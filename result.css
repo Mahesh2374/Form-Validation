@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background-color:#9a9ce9;
+    background-image:linear-gradient() ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+}
+label{
+    color: blue;
+    margin-bottom: 1rem;
+}
+#paragraph{
+    color: antiquewhite;
+}
+
+a{
+    margin-top: 1rem;
+}
